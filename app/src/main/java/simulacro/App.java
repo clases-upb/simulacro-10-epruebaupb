@@ -14,7 +14,6 @@ public class App {
      * y devuelve en entero, los segundos equivalentes. Si hay un error, devuelve -1. 
      *  Adaptado de edabit
      */
-    
     public static int Convertir_min_sec (int minutos){
 
         try {
@@ -36,7 +35,6 @@ public class App {
      * y devuelve un booleano true si son iguales, false si no lo son. Si hay un error, devuelve false también.
      *  Adaptado de edabit
      */
-
     public static boolean Validar_iguales(short nro1, short nro2){
 
         try {
